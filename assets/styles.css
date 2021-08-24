@@ -1,0 +1,674 @@
+/*section-1*/
+
+.section-1{
+    width: 100%;
+    height: 7%;
+    background-color: #fff;
+}
+.nav{
+    width: 100%;
+    height: 5%;
+}
+.nav1{
+    display: flex;
+}
+.ul1{
+    display: flex;
+}
+.li1{
+    padding-right: 50px;
+}
+.a1{
+    text-decoration: none;
+    color: #8a8a8a;
+}
+.logo1{
+    width: 90px;
+    height: 25px;
+    padding: 10px;
+}
+.ind1{
+    width: 22px;
+    padding: 9px;
+    padding-bottom: 15px;
+}
+.rightdiv{
+    margin-left: 1px;
+}
+.select1{
+    border: none;
+}
+.apply1{
+    color: #fff;
+    background-color: orange;
+    width: 40px;
+    padding-left: 40px;
+    height: 20px;
+}
+.awhite{
+    color: #fff;
+}
+
+
+/*section-2*/
+
+.section-2{
+    background: url("https://i.imgur.com/ksqOx5F.jpg");
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.row{
+    background: #000000b3;
+    overflow: hidden;
+    height: 100%;
+    z-index: 2;
+}
+.h12{
+    color: #fff;
+    font-size: 90px;
+    text-align: left;
+    padding-left: 100px;
+}
+.h32{
+    color: #fff;
+    font-size: 33px;
+    text-align: left;
+    padding-left: 100px;
+}
+.apply2{
+    background-color: #4992ca;
+    margin-left: 100px;
+    float: left;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+.register2{
+    float: left;
+    background-color: #0000;
+    border: 2px solid #fff;
+    color: #fff;
+    margin-left: 100px;
+    width: 200px;
+    height: 50px;
+}
+.learn-more2{
+    float: left;
+    margin-left: 100px;
+    border-radius: 15px;
+    width: 400px;
+    height: 45px;
+    border: 1px;
+}
+
+/*section-3*/
+
+.section-3{
+    background-color: #4992ca;
+    width: 100%;
+    height: 100%;
+    margin-top: -2.5%;
+}
+.h23{
+font-size: 45px;
+color: #fff;
+text-align: center;
+padding-top: 15px;
+font-family: Avenir-Next,Roboto,sans-serif;
+}
+.p3{
+    color: #fff;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+.types{
+    display: flex;
+    flex-wrap: no-wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.fas{
+    color: #fff;
+    font-size: 40px;
+}
+.p-type{
+    color: #fff;
+    font-size: 35px;
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+.p-info{
+    color: #fff;
+    font-size: 20px;
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+
+/*section-4*/
+
+.section-4{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.h24{
+    text-align: center;
+    font-size: 45px;
+}
+.stats{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.stat{
+    margin-top: -5%;
+}
+.h44{
+    font-size: 30px;
+}
+.p4{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+/*section-5*/
+
+.section-5{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.h45{
+    font-size: 40px;
+    text-align: center;
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr auto;
+    column-gap: 100px;
+}
+.h65{
+    font-size: 18px;
+    font-weight: 100;
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+.p5{
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+.p5-type{
+    margin-top: -7%;
+}
+.pokemon5{
+    width: 200px;
+    border-radius: 50%;
+}
+.poke-logo{
+    width: 140px;
+}
+
+/*section-6*/
+
+.section-6{
+    background-color: #4992ca;
+    width: 100%;
+    height: 80%;
+}
+.h26{
+    font-size: 45px;
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+}
+.h36{
+    color: #fff;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.h36-question{
+    padding-left: 120px;
+}
+.li6{
+    color: #fff;
+    padding-right: 100px;
+    margin-right: 20px;
+    margin-left: 160px;
+    font-size: 20px;
+}
+
+/*section-7*/
+
+.section-7{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.h27{
+    text-align: center;
+    font-size: 45px;
+}
+.h47{
+    text-align: center;
+    font-size: 25px;
+}
+.h47-flex1{
+    text-align: left;
+}
+table,th,td{
+    border: 1px solid;
+    border-color:#8a8a8a;
+    border-collapse: collapse;
+    padding: 15px;
+}
+td{
+    color: #8a8a8a;
+}
+.flex127{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.flex17{
+    flex-grow: 1;
+    padding-left: 100px;
+    margin-top: -3.25%;
+}
+.flex27{
+    flex-grow: 2;
+    padding-right: 100px;
+    margin-left: 15px;
+}
+.p7{
+    color: #8a8a8a;
+    text-align: left;
+    font-size: 20px;
+}
+.h57{
+    text-align: left;
+    font-size: 23px;
+}
+.book7{
+    text-align: center;
+    color: #4992ca;
+    font-size: 20px;
+}
+.buy7{
+    margin: 0;
+  position: absolute;
+  left: 43%;
+}
+.btn7{
+    border: none;
+    background-color: #4992ca;
+    color: #fff;
+    width: 220px;
+    height: 35px;
+    text-align: center;
+    font-size: 17px;
+}
+
+/*section-8*/
+
+.section-8{
+    background-color: #424242;
+    width: 100%;
+    height: 30%;
+    margin-top: 5%;
+}
+.h28{
+    font-size: 45px;
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+}
+.btn8{
+    margin: 0;
+    position: absolute;
+    left: 43%;
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+    width: 230px;
+    height: 50px;
+}
+
+/*section-9*/
+
+.h29{
+    text-align: center;
+    font-size: 45px;
+    color: gray;
+}
+.card{
+    text-align: center;
+    padding-left: 660px;
+    margin-top: -2.5%;
+}
+.card1{
+border: 1px solid #8a8a8a;
+width: 190px;
+background-color: lightgray;
+border-top: 15px solid #4992ca;
+}
+.card2{
+    border: 1px solid #8a8a8a;
+    width: 190px;
+}
+.h69{
+    font-size: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 0;
+}
+.p9{
+    color: gray;
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: -0.1%;
+}
+.greninja9{
+    margin-top: -15%;
+}
+.h49{
+    margin-top: -7%;
+}
+
+/*section-10*/
+.section-10{
+    background-color: #4992ca;
+    width: 100%;
+    height: 180%;
+}
+.wrapper10{
+    display: grid;
+    grid-template-columns: 1fr 1fr auto;
+    column-gap: 100px;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 40px;
+}
+.h210{
+    text-align: center;
+    color: #fff;
+    font-size: 45px;
+    text-align: center;
+    font-family: Avenir-Next,Roboto,sans-serif;
+    padding-top: 35px;
+}
+.h410{
+    color: #fff;
+    font-size: 30px;
+    margin-top: -0.1%;
+    font-weight: 100;
+    text-align: center;
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+.h610{
+    color: #fff;
+    font-size: 18px;
+    margin-top: -10%;
+    font-weight: 100;
+    text-align: center;
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+.poke-logo10{
+    width: 225px;
+    margin-top: -15%;
+    justify-content: center;
+    text-align: center;
+}
+.p10{
+    color: #fff;
+    font-weight: 100;
+    text-align: left;
+    font-family: Avenir-Next,Roboto,sans-serif;
+}
+.trainer10{
+    width: 200px;
+    border-radius: 50%;
+}
+
+/*section-11*/
+
+.h211{
+    text-align: center;
+    font-size: 45px;
+    color: #8a8a8a;
+}
+.cards_container{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.card11{
+    width: 502px;
+    height: 475px;
+    padding: 10px;
+}
+.h311{
+    font-size: 25px;
+}
+.card1st11{
+    border: 1px solid #8a8a8a;
+    background-color: lightgray;
+    border-top: 15px solid #4992ca;
+}
+.card2nd11{
+    border: 1px solid #8a8a8a;
+    height: 400px;
+}
+.p11{
+    font-size: 23px;
+    padding: 10px;
+}
+.h311{
+    padding-left: 20px;
+}
+.year11{
+    padding-left: 20px;
+}
+.bottom11{
+    padding-top: 65px;
+}
+
+/*section-12*/
+
+.section-12{
+    background-color: #424242;
+    width: 100%;
+    height: 40%;
+    margin-top: 4%;
+}
+.h212{
+    text-align: center;
+    font-size: 45px;
+    color: #fff;
+    padding-top: 50px;
+}
+.input12{
+margin-left: 450px;
+}
+.email12{
+    width: 350px;
+    height: 45px;
+}
+.btn12{
+    width: 250px;
+    height: 45px;
+    background: #0000;
+    border: 2px solid #fff;
+    color: #fff;
+    margin-left: 3px;
+}
+
+/*section-13*/
+
+.h213{
+    text-align: center;
+    color: #8a8a8a;
+    font-size: 45px;
+}
+.games{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 150px;
+}
+.game13{
+    height: 200px;
+}
+.h413{
+text-align: center;
+font-size: 20px;
+}
+.pinfo13{
+text-align: center;
+font-size: 27px;
+color: gray;
+}
+.publisher13{
+    font-size: 20px;
+    color: gray;
+    font-weight: bold;
+}
+.see13{
+text-align: center;
+margin-top: 2%;
+}
+.btn13{
+    background-color: #4992ca;
+    color: #fff;
+    border: none;
+    width: 200px;
+    height: 40px;
+}
+
+/*section-14*/
+
+.section-14{
+    background-color: #4992ca;
+    width: 100%;
+    height: 100%;
+    margin-top: -1%;
+}
+.h214{
+    text-align: center;
+    font-size: 45px;
+    color: #fff;
+    padding-top: 2%;
+}
+.designers{
+    display: flex;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+.designer{
+    padding-left: 20px;
+}
+.designpic{
+    width: 200px;
+    margin-left: 110px;
+    border-radius: 50%;
+}
+.h414{
+color: #fff;
+text-align: center;
+font-size: 25px;
+}
+.work14{
+    color: #fff;
+    text-align: center;
+    font-size: 22px;
+}
+.info14{
+    color: #fff;
+    text-align: left;
+    font-size: 20px;
+}
+
+/*section-15*/
+
+.h215{
+    text-align: center;
+    font-size: 45px;
+    color: #8a8a8a;
+}
+.p15{
+    text-align: center;
+    font-size: 23px;
+}
+.logos{
+    display: flex;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 50px;
+}
+.poke-logo15{
+    width: 260px;
+}
+
+/*section-16*/
+
+.section-16{
+    background-color: #4992ca;
+    width: 100%;
+    height: 30%;
+    margin-top: -1%;
+}
+.h216{
+    text-align: center;
+    font-size: 45px;
+    color: #fff;
+    padding-top: 2%;
+}
+.click16{
+    margin-left: 660px;
+}
+.btn16{
+    background: transparent;
+    color: #fff;
+    border: 2px solid #fff;
+    width: 210px;
+    height: 40px;
+}
+
+/*section-17*/
+
+.section-17{
+    background-color: rgb(3, 3, 43);
+    width: 100%;
+    height: 35%;
+}
+.footers{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 20px;
+}
+.footerhead{
+    color: #8a8a8a;
+}
+.footer{
+    text-align: center;
+}
+.a17{
+    color: #fff;
+    text-decoration: none;
+}
+.fab{
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.plast17{
+    padding-top: 6px;
+}
+.fas{
+    font-size: 13px;
+}
